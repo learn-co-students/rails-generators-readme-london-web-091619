@@ -1,0 +1,2 @@
+class Authour < ApplicationRecord
+end

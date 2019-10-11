@@ -1,0 +1,2 @@
+class AuthoursController < ApplicationController
+end
